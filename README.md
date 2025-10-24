@@ -1,5 +1,7 @@
 # Actividad-de-Opiniones
 
+Contexto: El siguiente archivo tiene como objetivo crear un modelo que identifique si una opinión es negativa o positiva a traves de datos guardados en CSV.
+
 PRIMEROS PASOS:
 primero de todo se import pandas, para posteriormente usar el read con el csv respectivo.
 También se uso el head y el shape para posterioemente usar el isnull mas el sum para analizar los nulos que hay.
