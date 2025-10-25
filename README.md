@@ -31,6 +31,7 @@ También en esta parte se creó la columna de "etiquetas" que guardara los datos
 
 Por último por mdio del comando outpust se creo el csv que posteriormente se subió al ranking del profesor.
 
+<img width="597" height="192" alt="Info para el repositorio" src="https://github.com/user-attachments/assets/cd1ee27d-c594-46ae-b43d-7ad81556291a" />
 
 
 
